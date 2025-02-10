@@ -1,0 +1,4 @@
+2025-01-27 20:47:34,387 - INFO - Starting healthcare chatbot application
+2025-01-27 20:48:20,583 - INFO - Starting healthcare chatbot application
+2025-01-27 20:48:20,834 - WARNING - From C:\Users\siddh\OneDrive\Desktop\healthassisstant\myenv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
